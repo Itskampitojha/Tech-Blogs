@@ -1,2 +1,3 @@
-# Tech-Blogs
-All i post here blogs related to Tech
+#### :books: Recent Blog Posts
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
